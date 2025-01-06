@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java to build applications.<br>👯 I’m looking to collaborate on an Internship.<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Data Structure and Algorithms.<br>💬 Ask me about MY learning experience.<br>⚡ Fun fact
+🔭 I’m currently working on Java to build applications.<br>👯 I’m looking to collaborate on an Internship.<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Data Structure and Algorithms.<br>💬 Ask me about MY learning experience.<br>
 
 
 ## 🌐 Socials:
