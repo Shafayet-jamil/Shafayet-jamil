@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java to build applications.<br>👯 I’m looking to collaborate on an Internship.<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Data Structure and Algorithms.<br>💬 Ask me about MY learning experience.<br>⚡ Fun fact 
+🔭 I’m currently working on Java to build applications.<br>👯 I’m looking to collaborate on an Internship.<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Data Structure and Algorithms.<br>💬 Ask me about MY learning experience.<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
@@ -13,12 +13,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafayet-jamil&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shafayet-jamil&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Shafayet-jamil&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shafayet-jamil&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Shafayet-jamil&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shafayet-jamil&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Shafayet-jamil&icon=6&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
